@@ -16,8 +16,8 @@ export const Projects = () => {
       imgUrl: projImg1,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Second project",
+      description: "Second description",
       imgUrl: projImg2,
     },
     {
