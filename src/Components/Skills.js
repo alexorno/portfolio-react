@@ -57,7 +57,7 @@
 
                 <SkillsItem percentage={100} icon={netlifyIcon} name={'Netlify'} />
 
-                <SkillsItem percentage={85} icon={'Sanity'} name={'Sanity'} />
+                <SkillsItem percentage={85} icon={''} name={'Sanity'} />
 
               </Carousel>
             </div>
