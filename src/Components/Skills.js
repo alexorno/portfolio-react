@@ -47,15 +47,17 @@
                 
                 <SkillsItem percentage={100} icon={hmtlIcon} name={'HTML 5'}/>
                 
-                <SkillsItem percentage={90} icon={cssIcon} name={'CSS 3'}/>
+                <SkillsItem percentage={100} icon={cssIcon} name={'CSS 3'}/>
                 
-                <SkillsItem percentage={80} icon={jsIcon} name={'JavaScript'}/>
+                <SkillsItem percentage={95} icon={jsIcon} name={'JavaScript'}/>
                 
-                <SkillsItem percentage={65} icon={reactIcon} name={'React'}/>
+                <SkillsItem percentage={95} icon={reactIcon} name={'React'}/>
 
-                <SkillsItem percentage={90} icon={gitIcon} name={'GIT'}/>
+                <SkillsItem percentage={100} icon={gitIcon} name={'GIT'}/>
 
                 <SkillsItem percentage={100} icon={netlifyIcon} name={'Netlify'} />
+
+                <SkillsItem percentage={85} icon={'Sanity'} name={'Sanity'} />
 
               </Carousel>
             </div>
